@@ -82,6 +82,10 @@ body {
 .nav .icon {
   display: none;
 }
+.navbar.p {
+	color: red;
+	
+}
 
 /* Dropdown content (hidden by default) */
 .dropdown-content {
